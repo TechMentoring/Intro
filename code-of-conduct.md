@@ -52,6 +52,11 @@ address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
+### Further definition
+
+This code of conduct applies to all who participate in the community. Not just
+to maintainers and organizers.
+
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
